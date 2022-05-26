@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { capitalizeFirstLetter } from '../../utils/helpers';
-import Pdf from "../../assets/img/SylviaPrabudy_Resume.pdf";
+// import Pdf from "../../assets/img/HoaPham_Resume.pdf";
 
 function Resume() {
     const [pages] = useState([
@@ -21,30 +21,22 @@ function Resume() {
                             <li>HTML</li>
                             <li>CSS</li>
                             <li>JavaScript</li>
-                            <li>jQuery</li>
                             <li>Git</li>
                             <li>React</li>
                             <li>Bootstrap</li>
-                            <li>SASS</li>
-                            <li>WordPress</li>
                         </ul>
                         <h3>Back-end Proficiencies</h3>
                         <ul>
                             <li>APIs</li>
                             <li>Node</li>
                             <li>Express</li>
-                            <li>MySQL, Sequelize, SQLite</li>
+                            <li>MySQL, Sequelize</li>
                             <li>MongoDB, Mongoose</li>
                             <li>REST</li>
                             <li>MERN Stack</li>
                         </ul>
-                        <h3>Additional Skills</h3>
-                        <ul>
-                            <li>Photoshop</li>
-                            <li>Figma</li>
-                        </ul>
                         <p className="text-center">
-                            Download my <a href={Pdf} className="text-faded white-link" download>resume</a>
+                            Download my <a href={''} className="text-faded white-link" download>resume</a>
                         </p>
                     </div>
                 </div>

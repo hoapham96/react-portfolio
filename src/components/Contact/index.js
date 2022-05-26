@@ -100,8 +100,8 @@ function Contact() {
                         </form>
                     
                         <h4>
-                            Sylvia Prabudy <br />
-                            Or simply send me an email at:  <a href="mailto:sylviaprabudy@gmail.com"> sylviaprabudy@gmail.com</a>
+                            Hoa Pham <br />
+                            Or simply send me an email at:  <a href="mailto:phamtantrunghoa@gmail.com"> phamtantrunghoa@gmail.com</a>
                         </h4>
                     </div>
                 </div>
